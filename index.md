@@ -1,5 +1,6 @@
 ---
 layout: home
-home_text: Hey, I think you stole my dog - John Wick
-title: Rohit Jain
+home_text:Here I write my thoughts, studies, projects and research.
+A place for comfort and contemplation.
+title: Adytum
 ---
