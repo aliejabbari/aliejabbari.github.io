@@ -1,5 +1,6 @@
 const themeMap = {
   'default': {
+    'background-image': ("Untitled-1");
     'background-color': 'white',
     'text-color': '#222',
     'highlight-color': '#eee'
